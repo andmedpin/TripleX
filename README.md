@@ -1,2 +1,2 @@
-# TripleX
- A Basic Game Made with C++
+# Triple X
+ A Basic Math Game Made with C++
